@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Abhi zyada waqt nahi hua mulaqat ko, Par dil ne pehle hi keh diya… "Thoda waqt do humein, mohabbat pakki ho jayegi tumse, Happy Birthday Sajal🥳 ", 
+        text: "Abhi zyada waqt nahi hua mulaqat ko, Par dil ne pehle hi keh diya… Thoda waqt do humein, mohabbat pakki ho jayegi tumse, Happy Birthday Sajal🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
